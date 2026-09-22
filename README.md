@@ -198,6 +198,9 @@ xlabel( ' Normalized Digital Frequency W' );
 ylabel( 'Magnitude in dB'); 
 title('Frequency Response of FIR BSF using Hanning Window');
 ```
+# Manual Calculation
+
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7d472083-5561-45f5-9804-f05a998b9d87" />
 
 # OUTPUT: 
 
